@@ -1,5 +1,7 @@
 ## BULK RNASEQ analysis
 # use R 4.1.1 for deseq analysis
+
+##  the samples are from GEO ID: GSE176078
 library(DESeq2)
 library(tidyverse)
 
